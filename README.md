@@ -2,7 +2,7 @@
 GPFSWorld 基于[fyne](https://github.com/fyne-io/fyne)框架开发，是GPFS网络的GUI节点，是GPFS生态不可或缺的一部分。所有人都可以用它自由地分享自己的文件。它不仅仅是一个文件管理工具，它还是一个基于P2P协议的资源搜索引擎。
 
  
-![](01.png)
+![](11.png)
 
 ## 功能列表
 
