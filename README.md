@@ -12,7 +12,7 @@ GPFSWorld 基于[fyne](https://github.com/fyne-io/fyne)框架开发，是GPFS网
 |  挖矿 |TODO |
 
 ##  Q&A
-- 导入文件后为什么从浏览器开发链接访问不到？   
+- 导入文件后为什么从浏览器打开链接访问不到？   
  答：文件同步需要时间，GFPS(IFPS)网关基本上都在国外。如果很长时间还打不开，可以在这里 https://ipfs.github.io/public-gateway-checker/  选择合适的网关，替换掉默认链接中的网关访问。
  
 - 软件不用的时候可以关闭吗？  
