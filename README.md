@@ -4,17 +4,16 @@
 GPFSWorld is developed based on the [fyne](https://github.com/fyne-io/fyne) framework. It is the GUI node of the GPFS network and an integral part of the GPFS ecosystem. Everyone can use it to share their files freely. It is not only a file management tool, it is also a resource search engine based on the P2P protocol.
 
  
-![](11.png)
+![](12.png)
 
 ## Function list
 
 | Function            | Statuts         |
 | -------------- | ---------- | 
 | File import | OK |   
-| File export | TODO | 
-| Configuration management |TODO |
+| File export | OK | 
+|  Mining | OK |
 | Resource search |TODO | 
-|  Mining |TODO |
 
 ##  Q&A
 - Why can't I open the link from the browser after importing the file?   
